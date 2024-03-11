@@ -13,4 +13,5 @@ pip install -r requirements.txt
 # Django 설정정보 생성 (config, manage.py)
 django-admin startproject config .
 
+# 서버 시작
 python manage.py runserver
